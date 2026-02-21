@@ -1,6 +1,6 @@
 # Proyecto: API de Reserva de libros en Catálogo Digital
 
-**Estudiante:** Paola Andrea Molina Valderrama
+**Estudiante:** Nelson Lozano Rayo
 
 **URL de la API:** `https://698a814b6c6f9ebe57b9f450.mockapi.io/Fichas`
 
